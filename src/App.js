@@ -5,6 +5,7 @@ import NavBar from "./components/NavBar";
 import About from "./components/About"; // Import the About component
 import SocialLinks from "./components/SocialLinks";
 import Portfolio from "./components/Portfolio";
+import Contact from "./components/Contact";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <About />
       <Portfolio />
       <Experience />
+      <Contact />
       <SocialLinks />
     </div>
   );
