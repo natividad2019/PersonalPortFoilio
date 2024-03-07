@@ -13,21 +13,20 @@ const About = () => {
           </p>
         </div>
         <p className="text-xl mt-20">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Non unde
-          consectetur qui, laudantium odit nesciunt hic labore explicabo nisi
-          alias, adipisci suscipit? Maiores labore accusantium rem. Nesciunt
-          dolorum sint at vel dolor soluta, magnam minus nulla earum aspernatur
-          quam quod animi eius magni aliquam eos iure pariatur molestias error
-          facilis.
+          My fascination with technology began early and blossomed into a
+          passion for software development. I thrive on using technology to
+          tackle real-world challenges and create innovative solutions. Through
+          experience, I've gained proficiency in full-stack web development,
+          mastering both front-end and back-end technologies. Additionally, I
+          dedicate my free time to teaching others about technology, sharing my
+          knowledge and inspiring others to explore the digital world
         </p>
         <br />
         <p className="text-xl">
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorem
-          delectus, facilis labore consequuntur sit deleniti pariatur, ab qui
-          nihil explicabo repellat doloribus odio repudiandae natus, facere
-          dolores tempora nobis fuga ipsa reprehenderit praesentium sed laborum.
-          Id suscipit in facere, corporis praesentium eius delectus laborum
-          dolor, ab illum repudiandae similique blanditiis?
+          Now, I'm eager to showcase my projects and collaborate with
+          like-minded individuals to drive positive change through technology.
+          Together, let's explore new possibilities, make meaningful impacts,
+          and empower others through education and innovation.
         </p>
       </div>
     </div>
