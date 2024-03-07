@@ -23,10 +23,10 @@ const About = () => {
         </p>
         <br />
         <p className="text-xl">
-          Now, I'm eager to showcase my projects and collaborate with
+          Now, I'm enthusiastic about presenting my projects and teaming up with
           like-minded individuals to drive positive change through technology.
-          Together, let's explore new possibilities, make meaningful impacts,
-          and empower others through education and innovation.
+          I'm passionate about working closely with people, aiming to change
+          lives through our collaborative efforts
         </p>
       </div>
     </div>
